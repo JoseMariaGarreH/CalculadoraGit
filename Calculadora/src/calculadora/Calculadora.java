@@ -9,6 +9,7 @@ package calculadora;
  *
  * @author redes
  */
+/*Como se encuentra mi pana*/
 public class Calculadora {
     private int num1;
     private int num2;
