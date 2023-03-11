@@ -18,7 +18,7 @@ public class Calculadora {
         num1=a;
         num2=b;
     }
-    
+    //Comentario desde el IDE
     public int suma(){
         int result=num1+num2;
         return result;
