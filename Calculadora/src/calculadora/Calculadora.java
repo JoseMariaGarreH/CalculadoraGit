@@ -23,7 +23,7 @@ public class Calculadora {
         int result=num1+num2;
         return result;
     }
-    
+    //Comentario desdes Github
     public int resta(){
         int result;
         if (resta2())   result = num1-num2;
