@@ -30,7 +30,7 @@ public class Calculadora {
         else            result = num2-num1;
         return result;
     }
-        
+    //Comentario para ramaIDE    
     public boolean resta2(){
         if (num1 > num2)    return true;
         else                return false;
