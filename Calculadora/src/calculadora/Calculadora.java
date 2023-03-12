@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+/*Espabila un poco crack*/
+/*Cambio de rama y modificacion desde consola*/
 package calculadora;
 /*que pasa bro*/
 /**
@@ -30,7 +32,7 @@ public class Calculadora {
         else            result = num2-num1;
         return result;
     }
-        
+    //Comentario para ramaIDE    
     public boolean resta2(){
         if (num1 > num2)    return true;
         else                return false;
